@@ -13,8 +13,13 @@
 + Outline:
 
 1.認識 Google Antigravity AI 平台
+
 2.安裝 Antigravity
+
 3.使用 Antigravity 事前準備
+
 4.Antigravity + Python + SQL
+
 5.Antigravity + R + SQL
+
 6.結論
