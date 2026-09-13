@@ -1,6 +1,6 @@
 # MySQL Shell 指令表
 
-| 中文 | 指令 | 快速鍵 | 功能 |
+| 中文 | 指令 | 快速鍵 | 英文說明 |
 |---|---|---|---|
 | 線上說明 | `\help` | `\h` or `\?` | Print help about MySQL Shell, or search the online help. |
 | 離開 | `\quit` | `\q` or `\exit` | Exit MySQL Shell. |
@@ -8,7 +8,7 @@
 | 系統狀態 | `\status` | `\s` | Show the current MySQL Shell status. |
 | 切換至 JavaScript | `\js` |  | Switch execution mode to JavaScript. |
 | 切換至 Python | `\py` |  | Switch execution mode to Python. |
-| 切換至 SQL | `\sql` |  | Switch execution mode to SQL. |
+| 切換至 SQL | **`\sql`** |  | Switch execution mode to SQL. |
 | 連接至資料庫 | `\connect` | `\c` | Connect to a MySQL instance. |
 | 重新連接至資料庫 | `\reconnect` |  | Reconnect to the same MySQL instance. |
 | 中斷連線 | `\disconnect` |  | Disconnect the global session. |
