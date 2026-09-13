@@ -11,6 +11,7 @@
 + PDF講義: https://github.com/rwepa/antigravity_python_r_mysql/blob/main/2026_ai_antigravity.pdf
 + 🌸YouTube：https://youtu.be/6hDFfwUM_38
 + Outline:
+
 1.認識 Google Antigravity AI 平台
 2.安裝 Antigravity
 3.使用 Antigravity 事前準備
