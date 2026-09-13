@@ -1,3 +1,5 @@
+# MySQL Shell 指令表
+
 | 中文 | 指令 | 快速鍵 | 功能 |
 |---|---|---|---|
 | 線上說明 | `\help` | `\h` or `\?` | Print help about MySQL Shell, or search the online help. |
